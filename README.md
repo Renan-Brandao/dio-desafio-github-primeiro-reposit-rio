@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-reposit-rio
-Meu primeiro repositório !!
+# Meu primeiro repositório !!
+Onde tudo começou :)
